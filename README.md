@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Christian Romuald Momo Tonfack </h1>
 
-![github_cover_banner](./banner.gif)
+<!-- ![github_cover_banner](./banner.gif) -->
 
 <h3 align="center">Full-Stack Developer, Rails enthusiast, and fan of Robotics Education. Stack: JavaScript, Ruby, Rails, React, Redux. Looking for my next job!</h3>
 
