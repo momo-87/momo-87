@@ -2,7 +2,6 @@
 
 ![github_cover_banner](./banner.gif)
 
-<h3 align="center">Full-Stack Developer, Rails enthusiast, and fan of Robotics Education. Stack: JavaScript, Ruby, Rails, React, Redux. Looking for my next job!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momo-87&label=Profile%20views&color=0e75b6&style=flat" alt="momo-87" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momo-87" alt="momo-87" /></a> </p> -->
