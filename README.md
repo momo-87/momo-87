@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Christian Romuald Momo Tonfack </h1>
 
-![github_cover_banner](./banner.gif)
+![github_cover_banner](./banner2.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momo-87&label=Profile%20views&color=0e75b6&style=flat" alt="momo-87" /> </p>
 
