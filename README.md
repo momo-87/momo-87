@@ -6,7 +6,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momo-87" alt="momo-87" /></a> </p> -->
 
-- 🔭 I’m currently working on [JavaScript Project](https://momo-87.github.io/JS-capstone-project/)
+- 🔭 I’m currently working on [BookStore Project](https://github.com/momo-87/book-store.git)
 - 🌱 I’m currently learning **Full stack development at Microverse**
 - 👨‍💻 All of my projects are available at [https://momo-87.github.io/](https://momo-87.github.io/)
 - 📫 How to reach me **momochristian87@gmail.com**
