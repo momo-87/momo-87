@@ -37,7 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 
-<h2 style="color: #44AEFB"> 🛠️ Tools and Methods </h2>
+<h3 style="color: #44AEFB"> 🛠️ Tools and Methods </h2>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black)
@@ -45,7 +45,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF.svg?style=for-the-badge&logo=Airtable&logoColor=white)
 
-<h2 style="color: #44AEFB"> ✅ Professional </h2>
+<h3 style="color: #44AEFB"> ✅ Professional </h2>
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
 
