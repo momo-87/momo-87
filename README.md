@@ -18,7 +18,7 @@
 </p>
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<h3 style="color: #44AEFB"> 🖥️ Font-end </h3>
+<h4 style="color: #44AEFB"> 🖥️ Font-end </h4>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
