@@ -48,6 +48,7 @@
 <h3 style="color: #44AEFB"> ✅ Professional </h2>
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
+![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)
 
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
