@@ -17,11 +17,13 @@
 <a href="https://linkedin.com/in/christian-momo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-momo" height="30" width="40" /></a>
 </p>
 
-<h2 style="color: #44AEFB"> 🖥️ Languages and Tools</h2>
+<h2 style="color: #44AEFB"> 🖥️ Font-end </h2>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+
 
 
 
