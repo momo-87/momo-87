@@ -30,14 +30,14 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
 
-<h3 style="color: #44AEFB"> 🗄️ Back-end</h3>
+<h4 style="color: #44AEFB"> 🗄️ Back-end</h4>
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 
-<h3 style="color: #44AEFB"> 🛠️ Tools and Methods </h2>
+<h4 style="color: #44AEFB"> 🛠️ Tools and Methods </h4>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black)
@@ -47,7 +47,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white)
 
-<h3 style="color: #44AEFB"> ✅ Professional </h2>
+<h4 style="color: #44AEFB"> ✅ Professional </h4>
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=white)
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)
