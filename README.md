@@ -55,6 +55,7 @@
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-0B5CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Zendesk-03363D.svg?style=for-the-badge&logo=Zendesk&logoColor=white)
 
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
