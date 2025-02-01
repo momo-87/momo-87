@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on [BookStore Project](https://github.com/momo-87/book-store.git) -->
 <!-- - 🌱 I’m currently learning **Full stack development at Microverse** -->
-- 👨‍💻 All of my projects are available at [https://momo-87.github.io/](https://momo-87.github.io/)
+- 👨‍💻 All of my projects are available at [https://momo-fawn.vercel.app/](https://momo-fawn.vercel.app/)
 - 📫 How to reach me **momochristian87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
